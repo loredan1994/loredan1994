@@ -24,9 +24,9 @@ A read-only Microsoft Entra application relationship explorer for investigating 
 
 A focused proof showing secret rotation and validation patterns around Azure Key Vault. This is part of my broader interest in turning security requirements into repeatable engineering controls.
 
-### [KQL Queries](https://github.com/loredan1994/kqlqueries)
+### [Azure Log Analytics Cost Triage](https://github.com/loredan1994/azure-log-analytics-cost-triage)
 
-Practical KQL queries and notes for cloud operations and security investigations.
+A structured KQL query library and operator playbooks for finding Azure Monitor ingestion-cost problems, investigating noisy tables, and running repeatable SRE reviews.
 
 ## How I think about systems
 
