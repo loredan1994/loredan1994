@@ -39,23 +39,35 @@ A structured KQL query library and operator playbooks for finding Azure Monitor 
 ## Selected credentials
 
 - Microsoft Certified: Azure Solutions Architect Expert
-- [Trusted AI Safety Expert (TAISE)](https://cloudsecurityalliance.org/education/taise) — Cloud Security Alliance & Northeastern University
-- HashiCorp Certified: Terraform Associate
-- Certificate of Competence in Zero Trust (CCZT)
-- Certificate of Cloud Security Knowledge v.5
+- [Trusted AI Safety Expert (TAISE)](https://www.credly.com/badges/68b59af3-0c46-4fad-a472-cf4a7ce48da0/public_url) — Cloud Security Alliance & Northeastern University
+- [Certificate of Competence in Zero Trust (CCZT)](https://www.credly.com/badges/2243fd6e-edcd-418d-84fc-36b06c78b5fd/public_url)
+- [Certificate of Cloud Security Knowledge v.5](https://www.credly.com/badges/6cb8f82b-8055-44b0-b16c-b44a1198a537/public_url)
+
+### Verified badge wallet
+
+Each badge opens its public verification record.
+
+<p>
+  <a href="https://www.credly.com/badges/68b59af3-0c46-4fad-a472-cf4a7ce48da0/public_url"><img src="https://images.credly.com/images/1011ba14-3290-4427-97f6-55164bbb057e/blob" width="88" alt="Trusted AI Safety Expert (TAISE) Certificate"></a>
+  <a href="https://www.credly.com/badges/2243fd6e-edcd-418d-84fc-36b06c78b5fd/public_url"><img src="https://images.credly.com/images/2233a52c-540e-496f-af8b-f88447ae8c91/image.png" width="88" alt="Certificate of Competence in Zero Trust (CCZT)"></a>
+  <a href="https://www.credly.com/badges/6cb8f82b-8055-44b0-b16c-b44a1198a537/public_url"><img src="https://images.credly.com/images/4377e6e3-3297-4e3a-b8b8-e1ae89b8b0a8/image.png" width="88" alt="Certificate of Cloud Security Knowledge v.5"></a>
+  <a href="https://www.credly.com/badges/29cd9d00-f68b-4979-af4c-c3f29d42cf3b/public_url"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="88" alt="GitHub Foundations"></a>
+  <a href="https://www.credly.com/badges/70f3afb9-b06f-47d0-9410-683d3282bb37/public_url"><img src="https://images.credly.com/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" width="88" alt="LFS169: Introduction to GitOps"></a>
+  <a href="https://www.credly.com/badges/d36158ef-3d00-48ed-809f-61387afa9641/public_url"><img src="https://images.credly.com/images/4f17161c-0357-416f-8507-04f4517b1c2f/image.png" width="88" alt="API Security Fundamentals"></a>
+  <a href="https://www.credly.com/badges/e4bbca70-c5cc-4168-91f0-3d62592f7fb4/public_url"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="88" alt="Microsoft Certified: Azure Fundamentals"></a>
+</p>
 
 <details>
-<summary>Additional certifications and training</summary>
+<summary>Additional current Credly credentials</summary>
 
-- LFS169: Introduction to GitOps
-- Microsoft Certified: Azure Administrator Associate
-- API Security Fundamentals
-- Microsoft Azure Fundamentals
-- Secure storage for Azure Files and Azure Blob Storage
-- Configure secure access to your workloads using Azure networking
-- GitHub Foundations
+- [GitHub Foundations](https://www.credly.com/badges/29cd9d00-f68b-4979-af4c-c3f29d42cf3b/public_url)
+- [LFS169: Introduction to GitOps](https://www.credly.com/badges/70f3afb9-b06f-47d0-9410-683d3282bb37/public_url)
+- [API Security Fundamentals](https://www.credly.com/badges/d36158ef-3d00-48ed-809f-61387afa9641/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/e4bbca70-c5cc-4168-91f0-3d62592f7fb4/public_url)
 
 </details>
+
+[View the complete Credly profile](https://www.credly.com/users/nicolae-loredan-calimanu/badges/credly)
 
 ## Current explorations
 
