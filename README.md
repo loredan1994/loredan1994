@@ -38,7 +38,8 @@ A structured KQL query library and operator playbooks for finding Azure Monitor 
 
 ## Selected credentials
 
-- Microsoft Certified: Azure Solutions Architect Expert
+- [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials/certification/azure-solutions-architect) — active through July 2027
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials/certification/azure-administrator) — active through November 2027
 - [Trusted AI Safety Expert (TAISE)](https://www.credly.com/badges/68b59af3-0c46-4fad-a472-cf4a7ce48da0/public_url) — Cloud Security Alliance & Northeastern University
 - [Certificate of Competence in Zero Trust (CCZT)](https://www.credly.com/badges/2243fd6e-edcd-418d-84fc-36b06c78b5fd/public_url)
 - [Certificate of Cloud Security Knowledge v.5](https://www.credly.com/badges/6cb8f82b-8055-44b0-b16c-b44a1198a537/public_url)
@@ -68,6 +69,23 @@ Each badge opens its public verification record.
 </details>
 
 [View the complete Credly profile](https://www.credly.com/users/nicolae-loredan-calimanu/badges/credly)
+
+### Microsoft verified credentials
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials/certification/azure-solutions-architect"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" width="96" alt="Microsoft Certified Expert"></a>
+  <a href="https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials/certification/azure-administrator"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="96" alt="Microsoft Certified Associate"></a>
+</p>
+
+<details>
+<summary>Microsoft Applied Skills</summary>
+
+- [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials/applied-skill/configure-secure-workloads-use-azure-virtual-networking)
+- [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials/applied-skill/secure-storage-azure-files-azure-blob-storage)
+
+</details>
+
+[View the Microsoft Learn credential profile](https://learn.microsoft.com/en-us/users/calimanunicolaeloredan-2567/credentials)
 
 ## Current explorations
 
