@@ -39,15 +39,16 @@ A structured KQL query library and operator playbooks for finding Azure Monitor 
 ## Selected credentials
 
 - Microsoft Certified: Azure Solutions Architect Expert
+- [Trusted AI Safety Expert (TAISE)](https://cloudsecurityalliance.org/education/taise) — Cloud Security Alliance & Northeastern University
 - HashiCorp Certified: Terraform Associate
 - Certificate of Competence in Zero Trust (CCZT)
 - Certificate of Cloud Security Knowledge v.5
-- Microsoft Certified: Azure Administrator Associate
 
 <details>
 <summary>Additional certifications and training</summary>
 
 - LFS169: Introduction to GitOps
+- Microsoft Certified: Azure Administrator Associate
 - API Security Fundamentals
 - Microsoft Azure Fundamentals
 - Secure storage for Azure Files and Azure Blob Storage
